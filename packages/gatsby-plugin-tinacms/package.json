@@ -39,7 +39,7 @@
     "@types/lodash.throttle": "^4.1.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.1.1",
     "lodash.throttle": "^4.1.1",
     "react-tinacms": "^0.4.0",
     "tinacms": "^0.4.0"
